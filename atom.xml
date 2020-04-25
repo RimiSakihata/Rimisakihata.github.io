@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Rimisakihata.github.io</id>
     <title>水晶与红珊瑚熔铸</title>
-    <updated>2020-04-25T03:07:38.089Z</updated>
+    <updated>2020-04-25T03:11:20.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Rimisakihata.github.io"/>
     <link rel="self" href="https://Rimisakihata.github.io/atom.xml"/>
@@ -11,19 +11,12 @@
     <icon>https://Rimisakihata.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 水晶与红珊瑚熔铸</rights>
     <entry>
-        <title type="html"><![CDATA[我在Gayhub上的第一篇文章]]></title>
+        <title type="html"><![CDATA[我在Github上的第一篇文章]]></title>
         <id>https://Rimisakihata.github.io/post/wo-zai-gayhub-shang-de-di-yi-pian-wen-zhang/</id>
         <link href="https://Rimisakihata.github.io/post/wo-zai-gayhub-shang-de-di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-04-25T02:23:09.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>出现吧斜体<br>
-** 出现吧粗体<br>
-<a href="www.zhihu.com">知乎网</a></li>
-</ul>
-<blockquote>
-<p>横眉冷对千夫指，俯首甘为孺子牛。</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>竟然什么都没有！</p>
 ]]></content>
     </entry>
     <entry>
